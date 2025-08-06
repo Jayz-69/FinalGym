@@ -7,18 +7,24 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "name1"
+  "name1",
+  "date"
  ],
  "fields": [
   {
    "fieldname": "name1",
    "fieldtype": "Data",
    "label": "name"
+  },
+  {
+   "fieldname": "date",
+   "fieldtype": "Date",
+   "label": "date"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-08-06 15:15:52.352334",
+ "modified": "2025-08-06 15:42:36.736630",
  "modified_by": "Administrator",
  "module": "Jim",
  "name": "Clover 2",
